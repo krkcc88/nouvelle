@@ -1,0 +1,3 @@
+### Vertemont
+
+(Ver-te-mon)  Translation - green mountains. In the native dwarvish Neuaddau Gwyrdd or Gwyrdd (Nay-a-vi Gw-ear-th) A mountain city in the northeast primarily inhabited by dwarves.  Kombucha is a speciality that is offered there.  They are agnostic to the war in [[Nouvelle]] because they generate an economy outside of wine.  They specialize as guides through the mountains and as blacksmiths within Vertemont.  Dwarves of Vertemont are highly specialized in their craft which creates a caste system within their houses and guilds that run the city.
