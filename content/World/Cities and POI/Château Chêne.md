@@ -1,0 +1,1 @@
+(Chateau Shen)  Translation - Oak Castle.  A forward castle held by [[La Pavillon-sous-Chênaie]].

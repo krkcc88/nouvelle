@@ -3,13 +3,11 @@ title: Nouvelle
 ---
 Nouvelle, the new lands, where knights and nobles rule.  
 
-
 The landscape of Nouvelle is vast and varied, featuring sprawling forests, rolling hills, and majestic mountains. The cities and towns of the land are bustling with activity, filled with merchants, craftsmen, and artisans, all vying for the attention of the wealthy nobles.
-
 
 The capital of the duchy is [[La Pavillon-sous-Chênaie]] (La Pav-e-yon sue Shin-ey, a city known for its grand architecture, winding canals, and vibrant street life. The city is dominated by the towering spires of the cathedral of Sainte-Marie, a magnificent structure that houses some of the most valuable relics in the land. La Pavillon is also home to the royal palace, where the ducal family resides in luxury and splendor.
 
-The duchy of Nouvelle is divided into counties, each with its own ruling count or countess. These noble families are constantly vying for power and influence, engaging in political intrigue and warfare to gain the upper hand over their rivals. Despite their conflicts, however, the nobility of Nouvelle share a code of honor and chivalry, known as la Grande Convention , valuing courage, loyalty, martial prowess, and valuing human life above all else.
+The duchy of Nouvelle is divided into counties, each with its own ruling count or countess. These noble families are constantly vying for power and influence, engaging in political intrigue and warfare to gain the upper hand over their rivals. Despite their conflicts, however, the nobility of Nouvelle share a code of honor and chivalry, known as [[Grande Convention]], valuing courage, loyalty, martial prowess, and valuing human life above all else.
 
 The people of Nouvelle are renowned for their love of wine, and the rolling vineyards that stretch for miles around the cities produce some of the finest vintages in the world. The grapes are tended by skilled vintners, who use age-old techniques to create wines that are smooth, complex, and deeply satisfying.
 
