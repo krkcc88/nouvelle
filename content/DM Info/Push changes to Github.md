@@ -1,5 +1,5 @@
 -cmd
 
--cd to Git\nouvelle
+-`cd to Git \ nouvelle`
 
 -npx quartz sync
